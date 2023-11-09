@@ -8,7 +8,7 @@
                 <span className="text-indigo-600">Veterinaria</span>
             </h2>
         </>
-    )
+    );
  }
 
  export default Header;
